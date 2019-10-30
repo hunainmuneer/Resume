@@ -36,6 +36,7 @@ A profound energetic individual with a solid working attitude, currently in last
 * *Major: Database Management*
 ---
 #### Skills
+
 *From Work Experience:* 
  **Tools** 
 * Forecasting
@@ -50,7 +51,7 @@ A profound energetic individual with a solid working attitude, currently in last
 * Key Performance Indidcators (KPI)
 * Microsoft Office 
 
-Technical (Academics):* 
+Technical (Academics):
 **Programming Languages** 
 * Java 
 * C++ 
