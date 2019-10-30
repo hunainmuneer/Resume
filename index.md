@@ -29,10 +29,11 @@ A profound energetic individual with a solid working attitude, currently in last
 
 ---
 #### Education
-Bachelor of Science (Major in Computer Science)
-*January 2015 – August 2020*
-*University of Manitoba*
-*Major: Database Management*
+
+* Bachelor of Science (Major in Computer Science)
+* *January 2015 – August 2020*
+* *University of Manitoba*
+* *Major: Database Management*
 ---
 #### Skills
 *From Work Experience:* 
