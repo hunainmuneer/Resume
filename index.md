@@ -10,6 +10,14 @@ derive valuable insights from data.
 
 ---
 #### Work Experience
+*Data Analyst (2022/06 - 2023-08)*
+"AMFCO"
+* Utilized Excel, SQL, Python, and statistical techniques to analyze data.
+* Collaborated with the data team to generate actionable reports, visualizations, and insights.
+* Developed Tableau dashboards to actively monitor key performance indicators.
+* Analyzed extensive datasets, uncovering trends, patterns, and correlations to drive business insights and
+decision-making.
+
 *Logistics Team (2018/01 - 2023-02)*
 "Skipthedishes"
 * Defined and drove the integration process for $4M in sales acquisition by introducing new modes of transportation for last-mile food delivery. 
